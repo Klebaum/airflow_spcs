@@ -1,6 +1,6 @@
 [connections]
 [connections.airflow]
-account = "zd27083.us-east-2.aws"
+account = "zd27083"
 user = "airflow_user"
 database = "airflow_db"
 schema = "airflow_schema"
