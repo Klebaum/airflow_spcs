@@ -1,9 +1,0 @@
-[connections]
-[connections.airflow]
-account = "zd27083"
-user = "airflow_user"
-database = "airflow_db"
-schema = "airflow_schema"
-warehouse = "airflow_wh"
-role = "airflow_admin_rl"
-connection_timeout = 600

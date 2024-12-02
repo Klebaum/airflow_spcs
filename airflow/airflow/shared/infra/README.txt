@@ -1,2 +1,0 @@
-`infra.common` package allows you to send Slack/PagerDuty alerts in case of Task failures.
-It also has `valut` package it will render the template files as a precursor to SPCSJObOperator() allowing secrets to be rendered from Snowflake Secret objects.
